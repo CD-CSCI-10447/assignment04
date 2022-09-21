@@ -1,5 +1,9 @@
 # Exceptions Lab
 
+
+Watch the following video :
+[Exceptions in java](https://www.youtube.com/watch?v=adTDlH0lhaA)
+
 * Part A - Coding Challenge
 * Part B - Foundations 8-2
 * Part C - Homework
