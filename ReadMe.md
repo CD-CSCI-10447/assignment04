@@ -2,11 +2,14 @@
 
 
 Watch the following video :
-[Exceptions in java](https://www.youtube.com/watch?v=adTDlH0lhaA)
+* [Exceptions in java](https://www.youtube.com/watch?v=adTDlH0lhaA)
+* [Generics in Java] (https://www.youtube.com/watch?v=jUcAyZ5OUm0)
 
+Work 
 * Part A - Coding Challenge
 * Part B - Foundations 8-2
 * Part C - Homework
+  * Read the chapter on Generics In Thinking In Java
 
 ## Part A
 

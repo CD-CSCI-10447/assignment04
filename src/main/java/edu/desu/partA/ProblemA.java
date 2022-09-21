@@ -8,8 +8,13 @@ public class ProblemA {
         containE("Heelle") --> true
         containE("Heelele") --> false
      */
-
+    // f(x) = x + 3
     public static Boolean containE(String str) {
-        return null;
+        int eCount = 0;
+        char[] characters = str.toCharArray();
+        for(char current: characters){
+            eCount = (current == 'e')? ++eCount: eCount;
+        }
+        return (eCount > 0 && eCount < 4);
     }
 }
